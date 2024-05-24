@@ -13,25 +13,29 @@
 
 <div style="text-align: center;">
     <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=PabloSifuentes&theme=ocean-gradient&border_radius=5.0&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=PabloSifuentes&theme=ocean-gradient&border_radius=5.0&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />                  
     </a>
 </div>
 
-### Tecnologia que eu estou utilizando no meu dia        
 
-<img align="center" alt="html" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />  
-<img align="center" alt="html" height="40" width="120" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img align="center" alt="html" height="40" width="120" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-<img   align="center" alt="html" height="" width=" "src = "https://steamuserimages-a.akamaihd.net/ugc/1548632727022870262/7A4E635EF2778FED99968756D830CADE8F9D6297/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" style="position: absolute; left: 600; top: 950;">
-          
-</div><br/>
+<div style="text-align: center;">
+    <a href="https://git.io/streak-stats">
+        <img src="https://steamuserimages-a.akamaihd.net/ugc/1548632727022870262/7A4E635EF2778FED99968756D830CADE8F9D6297/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="GitHub Streak" />
+    </a>
+</div>
+
+<center>
+    <h1>Tecnologia que eu estou utilizando no meu dia</h1>
+   
+<img align="center" alt="html" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />   <img align="center" alt="html" height="40" width="120" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> <img align="center" alt="html" height="40" width="120" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+</center>         
+</div><br/>  
 
 Estou em busca de conhecimento e oportunidade na área de deselvolvimento
 
 - Cursando Deselvolvimento e analise de sistema (Blumenau,SC.Senai)
 
 #### "DESELVOLVER SISTEMA É UMA ARTE, POR A CULPA NO PROGRAMA FAZ PARTE.."
-
 
 
 
